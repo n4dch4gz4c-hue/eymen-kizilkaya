@@ -1,15 +1,17 @@
-# Eymen Kızılkaya — kaldığımız yer
+# Eymen Kızılkaya — son hal
 
-Canlı: https://n4dch4gz4c-hue.github.io/eymen-kizilkaya/?v=35
-Kaynak dosya iki repoda da index.html. Yerel: /workspace/artifacts/eymen-kaleci-istatistik.html
+Kaybolmasın diye 3 Ekim 2026 gecesi kilitlendi.
 
-Veri artık sunucuda: https://json.extendsclass.com/bin/11fc24e7162e
-Yazma başlığı: Api-key: noaccount
-Telefonda yedek: localStorage eymen-kaleci-v2. Açılışta sunucu ile birleşir. Son kayıt kazanır.
-Fotoğraf değişimi (eymen-avatar) telefonda kalır. Eski sezonlar silinmez.
+- Açılacak link: https://n4dch4gz4c-hue.github.io/eymen-kizilkaya/?v=45
+- Asıl dosya: index.html
+- Yedek kopya: yedek.html (aynı sayfa)
+- İki depoda da duruyor: n4dch4gz4c-hue/eymen-kizilkaya ve n4dch4gz4c-hue.github.io/eymen-kizilkaya
 
-Ana ekran: foto + Sezonlar / Maçlar / Antrenman. Arka plan umraniye-arma.png. Profil eymen-foto.jpg.
+Ne var:
+- Maçlar: Maç Gir, Bu Sezonun Maçları, Maç İstatistiği, Bireysel İstatistik
+- Antrenman: Antrenman Gir, Antrenman İstatistikleri
+- Sezonlar ayrı durur, eski yıl silinmez
+- Kayıt telefonda ve sunucuda kalır
+- PDF Paylaş tüm sezon raporunu verir. Açılmazsa buton "PDF hazır, paylaş" olur, bir kez daha basılır
 
-Sezonlar: yıla basınca Takım, Bireysel, Antrenman İstatistiği (N ant. M dak).
-Maçlar (hepsi turuncu): Maç Gir, Bu Sezonun Maçları, Maç İstatistiği, Bireysel İstatistik.
-Antrenman: Antrenman Gir (tür seçim kutusu, tarih, dakika, neler yapıldı), Antrenman İstatistikleri (N antrenman M dakika).
+Patron güncelleme isterse bu linkten ve index.html dosyasından devam edilir. Eski sezon verisi silinmez.
